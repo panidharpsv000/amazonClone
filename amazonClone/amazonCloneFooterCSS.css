@@ -1,0 +1,19 @@
+footer {
+    background-color:beige;
+    margin:20px; 
+}
+
+.back-to-top {
+    background-color:#232F32;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height:49px;
+}
+
+.back-to-top a {
+    color:white;
+    font-size:14px;
+    text-decoration: none;
+    display:block;
+}
